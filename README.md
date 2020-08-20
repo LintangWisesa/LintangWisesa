@@ -1,4 +1,4 @@
-<img src="./hello.gif" width="25%"/>
+<img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/hello.gif" width="25%"/>
 
 ![lintang github stat](https://github-readme-stats.vercel.app/api?username=lintangwisesa&show_icons=true&hide_border=true)
 
