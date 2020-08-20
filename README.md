@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/hello.gif" width="50%"/>
+<img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/hello.gif" width="20%"/>
 
 <hr>
 
