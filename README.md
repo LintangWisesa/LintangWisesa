@@ -1,25 +1,5 @@
 <img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/hello.gif" width="20%"/>
 
-## Hi, I'm Lintang Wisesa!
-
-### 🎓 Education
-
-1. <a href=""><img align="left" style="margin-right:5px; margin-left:5px" alt="lintang ugm" width="22px" src="https://upload.wikimedia.org/wikipedia/id/2/29/Logo_Universitas_Gadjah_Mada.png" /></a> BSc in Physics, Universitas Gadjah Mada (_2010-2014_)
-
-2. <a href=""><img align="left" style="margin-right:5px; margin-left:5px" alt="lintang smalsa" width="22px" src="https://ppdb.smalsa.sch.id/wp-content/uploads/2018/12/AL-ISLAM-LOGO.png"/></a> SMA Al-Islam 1 Surakarta (_2007-2010_)
-
-### 💼 Experiences
-
-1. <a href=""><img align="left" style="margin-right:5px; margin-left:5px" alt="lintang facebook" width="22px" src="https://lh3.googleusercontent.com/If94hDJZHFF4cxGmuJvjS0MpqxpUBIay0NCdu7qzbdYfUpwNPh6_Qm24sQfqt6HuDn4j" /></a> Full stack developer at __Zipay__ (_Aug 2020 - now_)
-
-2. <a href=""><img align="left" style="margin-right:5px; margin-left:5px" alt="lintang facebook" width="22px" src="https://purwadhikax.com/static/media/purwadhika_logo.c8de15b3.png" /></a> Developer & lecturer staff at __Purwadhika__ (_May 2017 - Jul 2020_)
-
-3. <a href=""><img align="left" style="margin-right:5px; margin-left:5px" alt="lintang facebook" width="22px" src="https://media-exp1.licdn.com/dms/image/C510BAQEcP_LWsvCTNQ/company-logo_200_200/0?e=1605744000&v=beta&t=YWpuNFn56p00W38MH3lcPmrjRePHze2crsMOfcv9tpY" /></a> Quality control staff at __ASUS Indonesia__ (_Jun 2015 - Apr 2017_)
-
-4. <a href=""><img align="left" style="margin-right:5px; margin-left:5px" alt="lintang facebook" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQF5xVctflOPgQ/company-logo_100_100/0?e=1605744000&v=beta&t=v1fQiSHgFkybkfmiPa6OvLEUoolHzGzuwF4X6eF3pII" /></a> Trainer PMR & KIR at __SMKN 1 Depok__ (_Nov 2011 - Apr 2017_)
-
-5. <a href=""><img align="left" style="margin-right:5px; margin-left:5px" alt="lintang facebook" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFi33KVcvG2lw/company-logo_100_100/0?e=1605744000&v=beta&t=IbhLgInNxWq-UybBGCWiBT2zk9ukd8ZT8cN0eihb8Ik" /></a> Radio broadcaster at __MQ 92.3 FM Jogja__ (_Jul 2012 - Oct 2015_)
-
 ![lintang github stat](https://github-readme-stats.vercel.app/api?username=lintangwisesa&show_icons=true&hide_border=true)
 
 <a href="mailto: lintangwisesa@ymail.com">
