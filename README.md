@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/hello.gif" width="25%"/>
 
-![lintang github stat](https://github-readme-stats.vercel.app/api?username=lintangwisesa&show_icons=true&hide_border=true&theme=vue) 
-
-![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LintangWisesa&layout=compact&hide_border=true&theme=vue)
+|||
+|---|---|
+|![lintang github stat](https://github-readme-stats.vercel.app/api?username=lintangwisesa&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LintangWisesa&layout=compact&hide_border=true&theme=vue)| 
 
 <br>
 
