@@ -1,4 +1,4 @@
-<img src="./retro.gif"/>
+<center><img src="./trex.gif"/></center>
 
 |||
 |---|---|
