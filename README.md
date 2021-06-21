@@ -1,4 +1,6 @@
-<center><img src="./trex.gif"/></center>
+||
+|---|
+|<center><img src="https://cdnb.artstation.com/p/assets/images/images/018/381/429/original/andres-moncayo-deb01e53348989-59327c4238997.gif?15707484" height="100%" width="100%"/></center>|
 
 |||
 |---|---|
