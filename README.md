@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://github.com/LintangWisesa">
-  <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://camo.githubusercontent.com/11406e7ae7d4716fcc586cddf450451576d71bef/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f32352f32353233312e737667" />
+  <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 
 <a href="https://www.hackster.io/lintangwisesa">
