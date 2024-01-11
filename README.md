@@ -1,3 +1,6 @@
+## Hi, I'm Lintang 👋
+#### A full snack developer who mainly speaks in Python and JavaScript
+
 ||
 |---|
 |<center><img src="./img/trex.gif"/></center>|
